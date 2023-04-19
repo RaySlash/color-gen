@@ -4,7 +4,7 @@
 
 :root {
 	--bg-color: rgba(43,26,35,1); 
-	--prim-color: rgba(93,162,101,1);
+	--prim-color: rgb(61, 180, 37);
 }
 
 body {
@@ -39,7 +39,9 @@ body {
 #text {
 	font-size: 3rem;
 	color: var(--prim-color);
-	padding: 2.5rem 0rem 1.5rem 0rem; 	
+	padding: 2.5rem 2.5rem 2.5rem 2.5rem;
+	background-color: rgba(255,255,255,.2); 
+	border-radius: 48%;	
 }
 
 #bigbutton {
