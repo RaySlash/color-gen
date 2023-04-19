@@ -3,8 +3,8 @@
 }
 
 :root {
-	--bg-color: rgba(43,26,35,1); 
-	--prim-color: rgb(61, 180, 37);
+	--bg-color: rgba(82, 105, 6, 1); 
+	--prim-color: rgba(173, 200, 249, 1);
 }
 
 body {
@@ -37,6 +37,7 @@ body {
 }
 
 #text {
+	max-width: 80%;
 	font-size: 3rem;
 	color: var(--prim-color);
 	padding: 2.5rem 2.5rem 2.5rem 2.5rem;
