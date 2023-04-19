@@ -64,6 +64,20 @@ body {
 	display: flex;
 }
 
+#source {
+	border-style: none;
+	border-radius: 30%;
+	background-color: black;
+}
+
+.material-symbols-outlined {
+	color: var(--bg-color);
+}
+
+#source:hover {
+	background-color: white;
+} 
+
 #author {
 	padding: .5rem;
 }
