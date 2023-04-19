@@ -46,7 +46,7 @@ body {
 
 #bigbutton {
 	border-style: none;
-	border-radius: 20%;
+	border-radius: 2rem;
 	padding: 1.5rem;
 	color: var(--prim-color);
 	background-color: darkgrey;
@@ -55,10 +55,17 @@ body {
 
 #bigbutton:hover {
 	padding: 1.75rem;
-	border-radius: 25%;
 	background-color: rgba(213,65,42,1);
 	color: white;
 	font-weight: 700;
+}
+
+#bg-text {
+	margin: 5rem 0 0 0;
+	color: var(--prim-color);
+	padding: 1.5rem 1rem;
+	background-color: rgba(255,255,255,.1);
+	border-radius: 1rem; 	
 }
 
 #license {
