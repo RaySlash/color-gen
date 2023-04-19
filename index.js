@@ -8,7 +8,7 @@ function getRandomColor() {
     const red = Math.floor(Math.random() * intensity);
     const green = Math.floor(Math.random() * intensity);
     const blue = Math.floor(Math.random() * intensity);
-    const alpha = 100;
+    const alpha = 1;
     return `rgba(${red},${green},${blue},${alpha})`;
 }
     

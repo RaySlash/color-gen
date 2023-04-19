@@ -3,6 +3,8 @@ This website is my rice website with HTML, CSS and JavaScript. The main intentio
 a random muted color with the range of red, green and blue as a value of 100. This can be changed by updating the values of var intensity in 
 the javascript file.
 
+- Suggestions Welcome :D
+
 ### Clone
 ````
 git clone https://github.com/RaySlash/color-gen

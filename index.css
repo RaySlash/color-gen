@@ -3,8 +3,8 @@
 }
 
 :root {
-	--bg-color: #4252BD; 
-	--prim-color: #5DA265;
+	--bg-color: rgba(43,26,35,1); 
+	--prim-color: rgba(93,162,101,1);
 }
 
 body {
@@ -54,7 +54,7 @@ body {
 #bigbutton:hover {
 	padding: 1.75rem;
 	border-radius: 25%;
-	background-color: #d5412a;
+	background-color: rgba(213,65,42,1);
 	color: white;
 	font-weight: 700;
 }
